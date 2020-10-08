@@ -1,0 +1,1 @@
+ pandoc -w dzslides --standalone --self-contained presentation.md -A presentation.css> week-8-dynamic-programming.html

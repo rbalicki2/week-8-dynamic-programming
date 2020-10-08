@@ -1,0 +1,19 @@
+<style>
+ul, p, pre {
+	margin: 50px;
+}
+ul, pre {
+	font-size: 25px;
+}
+code.small-code {
+	font-size: 18px;
+}
+new {
+	color: #000099;
+	background-color: MistyRose;
+}
+old {
+	color: FireBrick;
+        text-decoration: line-through;
+}
+</style>
